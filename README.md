@@ -66,7 +66,6 @@ Sender: `no-reply@accounts.google.com`
 
 ## Free web port Forwarding...
 ![port-Forwarding](https://github.com/DevVj-1/Hacking-Social_Media-Accounts/assets/106962581/dd71a684-9b92-4f30-a3db-ee568b7067f8)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FYasinshekh187%2FHacking-Social_Media-Accounts.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FYasinshekh187%2FHacking-Social_Media-Accounts?ref=badge_shield)
 
 ### Just 👇 run this command ₊˚🎐
 ```
@@ -225,7 +224,3 @@ https://whatsmyname.app/
 ![1](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnA4MWxmZHVjdGV6Mmw5ZGc5M3FyYXBsbXhzYW5mdTV3Z2tnNWxvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jth6eoS4noFUDH7IcM/giphy.gif)
 </div>
 
-
-
-## License
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FYasinshekh187%2FHacking-Social_Media-Accounts.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FYasinshekh187%2FHacking-Social_Media-Accounts?ref=badge_large)
